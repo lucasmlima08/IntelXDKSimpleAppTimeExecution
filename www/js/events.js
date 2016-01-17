@@ -1,0 +1,7 @@
+function reset(){
+    
+}
+
+function calculate(){
+    
+}
