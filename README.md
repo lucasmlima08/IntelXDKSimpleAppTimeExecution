@@ -1,4 +1,4 @@
-Blank HTML App Designer Template for Building Packaged Mobile Web Apps
+Description
 ======================================================================
 
 Copyright © 2012-2015, Intel Corporation. All rights reserved.
